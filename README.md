@@ -1,4 +1,4 @@
-## Olá, bem-vindo ao meu perfil 👋
+## Olá, bem-vindo(a) ao meu perfil 👋
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLK-7&show_icons=true&theme=dark"/>
